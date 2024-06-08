@@ -1,0 +1,16 @@
+{
+  "name": "playlist-shuffler",
+  "version": "1.0.0",
+  "description": "Shuffles a folder of mp3 files into 'playlists' using sequential file naming logic",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "lvastisson",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
